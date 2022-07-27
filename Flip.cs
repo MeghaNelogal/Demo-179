@@ -36,6 +36,9 @@ namespace FlipCoin
                     Console.WriteLine("Head");
                     headCount++;
                 }
+                //num 1 = 20;
+               // num 2 = 30;
+                //num3 = (num1-num2);
 
             }
             headpercentage = (headCount * 100) / filps;
